@@ -10,7 +10,7 @@ body {
   background: white;
   padding: 30px;
   border-radius: 12px;
-  width: 400px;
+  width: 200px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
@@ -96,3 +96,4 @@ h1 {
   background-color: #ef4444;
   color: white;
 }
+
